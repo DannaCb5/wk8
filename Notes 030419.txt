@@ -1,0 +1,42 @@
+IP: Internet Protocol -  How data should be packetized, addressed, transmitted, routed, and received.
+TCP: Transmission Control Protocol - Focuses on the successful transmission of information.
+TCP/IP
+    Application
+    Transport
+    Internet
+    Network Interface
+
+OSI Model - Open system interconnection. Any not just the internet.
+    Application layer
+    presentation layer
+    Session layer
+    Transport
+    Network
+    Data Link
+    Physical
+
+AJAX: Asynchronous Javascript and XML - XMLhttpRequest - Javascript will send out a request and everything will keep on working on loading other things while waiting on a response.  Two things happening at once.
+    XML - Extensible Markup Language - old school. Now we use JSON.
+XHR: XML HTTP Request -
+    httpRequest = new XMLHttpRequest(); - new is instatiation of an object.
+    httpRequest.onreadystatechange = function() {}
+
+API - Waiter - Git request are the easiest requests
+
+IIFE - Immediatly invoked function expression 
+    (function() {
+    statements
+    })();
+
+ternary operator:
+    function getFree(isMember) {
+return ...
+
+    }
+
+CORS: Cross-Origin Sharing
+    Same-origin policy  - You cannot load an origin from somewhere else.  Whenever you load a script it needs to come from the same place.
+    origin
+    - Allow origin
+    - Allow headers
+    - Allow method
