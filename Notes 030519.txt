@@ -1,0 +1,8 @@
+Mime types (IANA media types)
+    type | subtype
+    text / plain
+
+set Mime type in the header("content-type: tex/ plain)
+
+if you get a Mime type error, now you know, but not super important.
+
